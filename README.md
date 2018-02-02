@@ -41,3 +41,8 @@ PT-Feeder Wiki: https://github.com/mehtadone/PTFeeder/wiki
 ## Support
 
 We do not provide support now. Use at own risk.
+
+However, the author glady accepts pull request and donation.
+
+BTC: 14H7Ue2pL8vs9zEqjiw8YrkTQKjgiqLSGC
+ETH: 0xDBEE8fBfAbb6aCC8058C72D674C6D9BfFA3f3030
