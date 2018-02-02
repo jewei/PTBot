@@ -38,6 +38,8 @@ Checkout other branches, `git checkout crypto-crow-settings`.
 - ProfitTrailer Wiki - https://wiki.profittrailer.io/doku.php
 - PT-Feeder - https://github.com/mehtadone/PTFeeder
 - PT-Feeder Wiki - https://github.com/mehtadone/PTFeeder/wiki
+- Crypto Crow - https://jasonappleton.com/
+- Crypto Crow YouTube - https://www.youtube.com/channel/UCwsRWmIL5XKqFtdytBfeX0g
 
 
 ## Support
