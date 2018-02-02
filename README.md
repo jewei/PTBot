@@ -35,6 +35,7 @@ Checkout other branches, `git checkout crypto-crow-settings`.
 - ProfitTrailer Wiki - https://wiki.profittrailer.io/doku.php
 - PT-Feeder - https://github.com/mehtadone/PTFeeder
 - PT-Feeder Wiki - https://github.com/mehtadone/PTFeeder/wiki
+- CryptoGnome Github - https://github.com/CryptoGnome/Gnome-Feeder
 
 
 ## Support
