@@ -1,20 +1,18 @@
 {
   "Host": {
-    "TrexPairsLocation": "",
+    "TrexPairsLocation": "C:\\Users\\Administrator\\Desktop\\Crow Bot\\trading",
     "PoloPairsLocation": "",
     "BinancePairsLocation": "",
-    "HostName": "PT Feeder",
-    "LicenseKey": "",
-    "ServerUrls": "http://localhost:5001",
-    "MarketConditionCheckInMinutes": "5",
+    "HostName": "BTC",
+    "LicenseKey": "YOUR LICENSE KEY",
+    "ServerUrls": "http://localhost:8083",
+    "MarketConditionCheckInMinutes": "3",
     "CalculateTrailingValues": "true",
     "UseMaxCostPercentage": "true",
     "UseMinBuyBalancePercentage": "true",
-    "TelegramBotId": "",
-    "TelegramChatId": "",
-    "TestMode": "false"
+    "TelegramBotId": "YOUR TELEGRAM BOT ID",
+    "TelegramChatId": "YOUR BOT ID"
   },
-
   "Serilog": {
     "MinimumLevel": "Information"
   }

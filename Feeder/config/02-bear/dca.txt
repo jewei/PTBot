@@ -1,0 +1,12 @@
+
+buy_strategy = ANDERSON
+buy_style = DOUBLEDOWN
+buy_trigger_1 = -4
+buy_trigger_2 = -6
+buy_trigger_3 = -6
+buy_trigger_4 = -8
+buy_trigger_5 = -8.5
+
+stop_loss_trigger = 0
+pending_order_wait_time = 0
+ignore_sell_only_mode = false
