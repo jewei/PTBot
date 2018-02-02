@@ -6,8 +6,8 @@
       "script": "java",
       "args": [
         "-XX:+UseConcMarkSweepGC",
-        "-Xmx1024m",
-        "-Xms1024m",
+        "-Xmx512m",
+        "-Xms512m",
         "-jar",
         "ProfitTrailer.jar"
       ],
