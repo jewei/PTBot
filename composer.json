@@ -1,0 +1,17 @@
+{
+    "name": "jewei/pt-bot",
+    "description": "ProfitTrailer and Feeder package.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jewei Mak",
+            "email": "jewei.mak@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "illuminate/support": "^5.5",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
