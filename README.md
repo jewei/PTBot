@@ -24,6 +24,11 @@ pm2 startup
 ```
 
 
+## Running on other settings
+
+Checkout other branches, `git checkout crypto-crow-settings`.
+
+
 ## Links
 
 ProfitTrailer: https://github.com/taniman/profit-trailer
