@@ -6,10 +6,10 @@
     "HostName": "PT Feeder",
     "LicenseKey": "",
     "ServerUrls": "http://localhost:5001",
-    "MarketConditionCheckInMinutes": "5",
+    "MarketConditionCheckInMinutes": "4",
     "CalculateTrailingValues": "true",
-    "UseMaxCostPercentage": "true",
-    "UseMinBuyBalancePercentage": "true",
+    "UseMaxCostPercentage": "false",
+    "UseMinBuyBalancePercentage": "false",
     "TelegramBotId": "",
     "TelegramChatId": "",
     "TestMode": "false"
