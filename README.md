@@ -1,7 +1,10 @@
 # ProfitTrailer & Feeder bundle
 
-This package contatins ProfitTrailer and PT-Feeder. Run `php setup.php` to
-replace sensitive credentials from .env to setting files.
+This package contains latest version of ProfitTrailer and PT-Feeder.
+
+You can leave sensitive credentials to .env file while update the bots easily.
+
+Run `php setup.php` to replace sensitive credentials from .env to setting files.
 
 
 ## Usage
