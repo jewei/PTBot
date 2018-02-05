@@ -6,5 +6,5 @@ SMA_1 = 24
 SMA_2 = 12
 
 EMA_period = 300
-EMA_1 = 34
-EMA_2 = 13
+EMA_1 = 24
+EMA_2 = 3

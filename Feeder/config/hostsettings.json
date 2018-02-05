@@ -3,19 +3,16 @@
     "TrexPairsLocation": "",
     "PoloPairsLocation": "",
     "BinancePairsLocation": "",
-    "HostName": "PT Feeder",
-    "LicenseKey": "",
-    "ServerUrls": "http://localhost:5001",
-    "MarketConditionCheckInMinutes": "5",
+    "LicenseKey": "YOUR KEY GOES HERE",
+    "ServerUrls": "http://localhost:8083",
+    "MarketConditionCheckInMinutes": "3",
     "CalculateTrailingValues": "true",
     "UseMaxCostPercentage": "true",
     "UseMinBuyBalancePercentage": "true",
     "TelegramBotId": "",
-    "TelegramChatId": "",
-    "TestMode": "false"
+    "TelegramChatId": ""
   },
-
   "Serilog": {
-    "MinimumLevel": "Information"
+    "MinimumLevel": "Debug"
   }
 }
