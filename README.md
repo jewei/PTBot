@@ -69,22 +69,22 @@ To use other settings, for example, `git checkout crypto-crow-settings`.
 - PT-Feeder Wiki - https://github.com/mehtadone/PTFeeder/wiki
 
 
-## Support
+## Support, Setup and VPS hosting
 
 You can tip me to keep the [settings](https://github.com/jewei/PTBot/branches)
-updated and [support](https://github.com/jewei/PTBot/issues/new).
+fresh and updated.
+
+_(Please also tip the original settings' creators/maintainers.)_
 
 - BTC `14H7Ue2pL8vs9zEqjiw8YrkTQKjgiqLSGC`
 - ETH `0xDBEE8fBfAbb6aCC8058C72D674C6D9BfFA3f3030`
 
-Please also tip the settings creators/maintainers.
-
-
-## VPS setup and hosting
-
-I also provide services like:
+Please contact me on Discord, `jewei#8441` for services below:
 
 1. Bot setup and troubleshooting.
-2. Managed VPS hosting and maintenance.
+2. Managed VPS hosting service.
 
-Please contact me on Discord, jewei#8441.
+
+## Contribute
+
+Pull requests are welcome.
