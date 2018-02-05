@@ -14,11 +14,13 @@ Simply run `php setup.php` to update credentials from .env to setting files.
 
 ## Requirement
 
-1. PHP version > 7.0 and Composer to run the credential script.
-2. Java 8 to run Profit Trailer.
-3. .NET SDK to run Feeder (optional).
-4. PM2 process manager to keep programmes running (optional).
-5. Git to manage and switch branches/settings (optional).
+1. Min 2GB RAM.
+2. API keys on either exhcange: Binance(recommended), Bittrex, Poloniex.
+3. PHP version > 7.0 and Composer to run the credential script.
+4. Java 8 to run Profit Trailer.
+5. (optional) .NET SDK to run Feeder.
+6. (optional) PM2 process manager to keep programmes running.
+7. (optional) Git to manage and switch branches/settings.
 
 This bundle is optimized for Linux OS environment.
 
@@ -76,3 +78,13 @@ updated and [support](https://github.com/jewei/PTBot/issues/new).
 - ETH `0xDBEE8fBfAbb6aCC8058C72D674C6D9BfFA3f3030`
 
 Please also tip the settings creators/maintainers.
+
+
+## VPS setup and hosting
+
+I also provide services like:
+
+1. Bot setup and troubleshooting.
+2. Managed VPS hosting and maintenance.
+
+Please contact me on Discord, jewei#8441.
