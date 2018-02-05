@@ -79,7 +79,8 @@ _(Please also tip the original settings' creators/maintainers.)_
 - BTC `14H7Ue2pL8vs9zEqjiw8YrkTQKjgiqLSGC`
 - ETH `0xDBEE8fBfAbb6aCC8058C72D674C6D9BfFA3f3030`
 
-Please contact me on Discord, `jewei#8441` for services below:
+Please find me on Discord, `jewei#8441` or [telegram](https://t.me/PTbotsGroup)
+(English/中文) for services below:
 
 1. Bot setup and troubleshooting.
 2. Managed VPS hosting service.
