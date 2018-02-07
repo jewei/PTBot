@@ -1,4 +1,5 @@
-﻿#Period in seconds
+﻿
+#Period in seconds
 BB_period = 300
 BB_sma = 20
 

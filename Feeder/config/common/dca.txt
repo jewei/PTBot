@@ -1,0 +1,5 @@
+﻿
+buy_strategy = ANDERSON
+buy_style = DOUBLEDOWN
+
+ignore_sell_only_mode = false
