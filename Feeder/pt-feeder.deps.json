@@ -2784,10 +2784,10 @@
           "ptfmodels": "1.0.0"
         },
         "runtime": {
-          "lib/netcoreapp2.0/services.dll": {}
+          "lib/netcoreapp2.0/Services.dll": {}
         },
         "compile": {
-          "lib/netcoreapp2.0/services.dll": {}
+          "lib/netcoreapp2.0/Services.dll": {}
         }
       },
       "SQLitePCLRaw.bundle_e_sqlite3/1.1.9": {
