@@ -5,11 +5,11 @@
     "BinancePairsLocation": "",
     "HostName": "PT Feeder",
     "LicenseKey": "",
-    "ServerUrls": "http://localhost:5001",
     "MarketConditionCheckInMinutes": "5",
     "CalculateTrailingValues": "true",
-    "UseMaxCostPercentage": "true",
+    "UseMaxCostPercentage": "false",
     "UseMinBuyBalancePercentage": "true",
+    "BackupTradingFiles": "true",
     "TelegramBotId": "",
     "TelegramChatId": "",
     "TestMode": "false"
