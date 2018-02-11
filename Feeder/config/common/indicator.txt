@@ -1,4 +1,6 @@
-﻿#Period in seconds
+﻿# ---------------COMMON PT FEEDER CONFIG-----------------------
+
+#Period in seconds
 BB_period = 300
 BB_sma = 20
 
